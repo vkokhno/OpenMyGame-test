@@ -1,0 +1,47 @@
+[
+  {
+    "level": 1,
+    "words": [
+      { "word": "РОВ", "founded": false },
+      { "word": "ОРК", "founded": false },
+      { "word": "КРОВ", "founded": false }
+    ],
+    "letters": [
+      { "id": 1, "letter": "Р" },
+      { "id": 2, "letter": "О" },
+      { "id": 3, "letter": "В" },
+      { "id": 4, "letter": "К" }
+    ]
+  },
+  {
+    "level": 2,
+    "words": [
+      { "word": "РУНА", "founded": false },
+      { "word": "РУДА", "founded": false },
+      { "word": "УРНА", "founded": false }
+    ],
+    "letters": [
+      { "id": 1, "letter": "А" },
+      { "id": 2, "letter": "У" },
+      { "id": 3, "letter": "Д" },
+      { "id": 4, "letter": "Р" },
+      { "id": 5, "letter": "Н" }
+    ]
+  },
+  {
+    "level": 3,
+    "words": [
+      { "word": "РУКА", "founded": false },
+      { "word": "ПАУК", "founded": false },
+      { "word": "ПАРК", "founded": false },
+      { "word": "КАРП", "founded": false }
+    ],
+    "letters": [
+      { "id": 1, "letter": "П" },
+      { "id": 2, "letter": "У" },
+      { "id": 3, "letter": "Р" },
+      { "id": 4, "letter": "А" },
+      { "id": 5, "letter": "К" }
+    ]
+  }
+]
